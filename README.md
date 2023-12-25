@@ -14,10 +14,7 @@ This is a simple space shooter game written in C++, using SFML. In this game, yo
 - Compiler: You need a compiler like Microsoft Visual Studio or VS Code.
 
 # Compilation
-Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately.
-
-# Running the Game
-Run the compiled executable.
+Compile the program using a C++ compiler. Make sure to link the SFML libraries appropriately. Run the compiled executable.
 
 # Controls
 - Left Arrow: Move left.
